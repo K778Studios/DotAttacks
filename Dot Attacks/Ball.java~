@@ -1,0 +1,28 @@
+public class Ball
+{
+  private int xPos;
+  private int yPos;
+  
+  
+  public Ball(int x, int y)
+  {
+    xPos = x;
+    yPos = y;
+  }
+  
+  public void setXPos(int x)
+  {
+    
+  }
+  
+  public void setYPos()
+  {
+    
+  }
+  
+  public void move()
+  {
+    
+  }
+  
+}
